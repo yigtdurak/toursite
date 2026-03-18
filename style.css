@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+#container-main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+ul li a {
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 1.5vw;
+}
+ul {
+    display: flex; 
+}
+ul li {
+    padding: 0.6vw;
+}
+.middle {
+    background-color: wheat;
+    height: 0.3vw;
+    width: 0;
+    transition: width 0.3s;
+}
+.dancing-script-uniquifier {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: bolder;
+  font-style: normal;
+  font-size: 2vw;
+  color: beige;
+}

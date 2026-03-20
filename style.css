@@ -57,7 +57,7 @@ ul li {
         flex-direction: column;
     }
     ul li a {
-        font-size: 30px;
+        font-size: 27px;
     }
     #container-main span {
         font-size: 28px;
@@ -70,6 +70,6 @@ ul li {
         height: 200px;
     }
     #mbd {
-        font-size: 35px;
+        font-size: 30px;
     }
 }

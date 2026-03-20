@@ -28,7 +28,7 @@ ul li {
     height: 500px;
     background-image: url(./pictures/Panorama_Tigre.jpg);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: flex-end;

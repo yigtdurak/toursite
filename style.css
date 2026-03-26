@@ -133,7 +133,8 @@ ul li {
     
     #popup {
         position: absolute;
-        top:250px;
+        width: 60%;
+        top:350px;
         left: 80px;
     }
 }

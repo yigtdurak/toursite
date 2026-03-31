@@ -1,6 +1,7 @@
 let secCon = document.getElementById('container');
 let sec3 = document.getElementById('body');
 let sec = document.getElementById('popup');
+
 function setOpc(select,value){
     return select.style.opacity = value;
 }
